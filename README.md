@@ -5,10 +5,6 @@ Static pages for App Store Connect:
 - Privacy Policy
 - Support
 
-## Before publishing
-
-Replace `YOUR_EMAIL@example.com` in `privacy.html` and `support.html`.
-
 ## Publish on GitHub Pages
 
 1. Create a new public repo on GitHub named `chunky-cat-chaos-pages`.
